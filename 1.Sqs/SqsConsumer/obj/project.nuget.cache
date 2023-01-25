@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZnHoAjdk/zqCqBSQCqSGO697qjxSTH1UTB4WA8sVVbi07Fn8DQM6SzGW8o6yYlQ81qpnm08A4CBkIODg4eGjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\SqsConsumer\\SqsConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mihai\\.nuget\\packages\\awssdk.core\\3.7.103.20\\awssdk.core.3.7.103.20.nupkg.sha512",
+    "C:\\Users\\Mihai\\.nuget\\packages\\awssdk.sqs\\3.7.100.58\\awssdk.sqs.3.7.100.58.nupkg.sha512"
+  ],
+  "logs": []
+}
