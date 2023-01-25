@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "KWeLL55GjKFLD8b/K9CPuafKisMyzWelsiOSmgD7c7WgRaZA07y8H9GusV7lPPKJc5acm+ySON4zQhAIFZerMA==",
+  "dgSpecHash": "hVVtHXy0UN3ZRCJM8n98SXWYZEXYYWWGl9iQDuyx7bsFrbTSQEmcq3AO8t9eeSzaS81PKlK6AhyGQfKUM0++pw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Api\\Customers.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mihai\\.nuget\\packages\\awssdk.core\\3.7.103.18\\awssdk.core.3.7.103.18.nupkg.sha512",
+    "C:\\Users\\Mihai\\.nuget\\packages\\awssdk.sqs\\3.7.100.56\\awssdk.sqs.3.7.100.56.nupkg.sha512",
     "C:\\Users\\Mihai\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Mihai\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
     "C:\\Users\\Mihai\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.1\\fluentvalidation.aspnetcore.11.0.1.nupkg.sha512",

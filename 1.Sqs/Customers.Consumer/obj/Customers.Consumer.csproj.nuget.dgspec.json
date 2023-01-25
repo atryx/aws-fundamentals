@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Api\\Customers.Api.csproj": {}
+    "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Consumer\\Customers.Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Api\\Customers.Api.csproj": {
+    "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Consumer\\Customers.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Api\\Customers.Api.csproj",
-        "projectName": "Customers.Api",
-        "projectPath": "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Api\\Customers.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Consumer\\Customers.Consumer.csproj",
+        "projectName": "Customers.Consumer",
+        "projectPath": "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Consumer\\Customers.Consumer.csproj",
         "packagesPath": "C:\\Users\\Mihai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Api\\obj\\",
+        "outputPath": "C:\\Users\\Mihai\\source\\repos\\AwsFundamentalsCourse\\1.Sqs\\Customers.Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,25 +47,9 @@
               "target": "Package",
               "version": "[3.7.100.56, )"
             },
-            "Dapper": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[2.0.123, )"
-            },
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[11.0.1, )"
-            },
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.Data.Sqlite": {
-              "target": "Package",
-              "version": "[7.0.2, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[11.0.0, )"
             }
           },
           "imports": [
